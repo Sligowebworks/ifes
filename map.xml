@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+        <xml_map_data id="parent"><destination x_coord="309.1" y_coord="76.5" countryID="KG" CountryName="Kyrgyzstan" flag="kyrgyzstan.gif" EventName="Presidential (First Round)" date="07/23/2009" electionurl="election.php?ID=1496" url="country.php?ID=117">
+            </destination><destination x_coord="189.9" y_coord="119.5" countryID="GW" CountryName="Guinea-Bissau" flag="Guinea_Bissau.gif" EventName="Presidential (Second Round)" date="07/26/2009" electionurl="election.php?ID=1763" url="country.php?ID=92">
+            </destination><destination x_coord="247.8" y_coord="66.3" countryID="MD" CountryName="Moldova" flag="moldova.gif" EventName="Parliamentary" date="07/29/2009" electionurl="election.php?ID=1756" url="country.php?ID=142">
+            </destination><destination x_coord="441" y_coord="193.3" countryID="NZ" CountryName="New Zealand" flag="new_zealand.jpg" EventName="Referendum" date="07/31/2009" electionurl="election.php?ID=1731" url="country.php?ID=155">
+            </destination><destination x_coord="268" y_coord="147.4" countryID="KM" CountryName="Comoros" flag="comoros.gif" EventName="Legislative" date="08/02/2009" url="country.php?ID=49">
+            </destination><destination x_coord="220.6" y_coord="112.8" countryID="NE" CountryName="Niger" flag="niger.gif" EventName="Referendum" date="08/04/2009" url="country.php?ID=157">
+            </destination><destination x_coord="298" y_coord="99" countryID="AF" CountryName="Afghanistan" flag="afghan.gif" EventName="Presidential (First Round)" date="08/20/2009" electionurl="election.php?ID=1175" url="country.php?ID=2">
+            </destination><destination x_coord="220.6" y_coord="112.8" countryID="NE" CountryName="Niger" flag="niger.gif" EventName="Parliamentary" date="08/20/2009" url="country.php?ID=157">
+            </destination><destination x_coord="394.4" y_coord="85.5" countryID="JP" CountryName="Japan" flag="japan.gif" EventName="Legislative" date="08/30/2009" electionurl="election.php?ID=1454" url="country.php?ID=109">
+            </destination><destination x_coord="222.8" y_coord="43.4" countryID="NO" CountryName="Norway" flag="norway.gif" EventName="Parliamentary" date="09/14/2009" electionurl="election.php?ID=1439" url="country.php?ID=162">
+            </destination></xml_map_data>

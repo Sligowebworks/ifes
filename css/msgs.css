@@ -1,0 +1,79 @@
+.pop_info, .pop_help, .pop_question, .pop_error {
+    background: #f7f0e4;
+    padding: 5px;
+    display: none;
+    z-index: 5;
+    margin-bottom: 10px;
+}
+
+.pop_error {
+    border: 1px solid #e84c04;
+}
+
+.pop_question {
+    border: 1px solid #7298d0;
+}
+
+.pop_info {
+    border: 1px solid #149814;
+}
+
+.pop_help {
+    border: 1px solid #6a91cc;
+}
+
+.error_bg, .info_bg, .questions_bg, .help_bg{
+    background-position: top left;
+    background-repeat: no-repeat;
+    margin: 0 0 10px 20px;
+    text-align: left;
+}
+
+.error_bg{
+    background-image: url(/systemimg/pop_error.gif);
+}
+
+.info_bg{
+    background-image: url(/systemimg/pop_info.gif);
+}
+
+.questions_bg{
+    background-image: url(/systemimg/pop_question.gif);
+}
+
+.help_bg{
+    background-image: url(/systemimg/pop_info.gif);
+}
+
+.msgtext{
+	width: 250px;
+    margin: 0 0 10px 20px;
+}
+
+#thismsg, #thiserr  {
+    text-align: left;
+    background: #f7f0e4;
+    display: none;
+    font-size: 1.1em;
+}
+
+#thismsg  {
+    border: 1px solid #496d88;
+    border-left: 4px solid #496d88;
+}
+
+#thiserr {
+    border: 1px solid #ff0033;
+    border-left: 4px solid #ff0033;
+}
+
+.errortext {
+	font-size: 1.0em;
+	color: #ff0033;
+}
+
+.errortextbold {
+	font-size: 1.0em;
+	color: #ff0033;
+	font-weight: bold;
+}

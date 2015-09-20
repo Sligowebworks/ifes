@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="utf-8" ?>
+  <rss version="2.0">
+    <channel>
+      <title>ElectionGuide.org Elections Calendar</title>
+      <description>This year's elections</description>
+      <language>en-us</language>
+      <copyright>(C) Copyright 2008, all rights reserved</copyright>
+      <pubDate>Tue, 21 Jul 2009 14:34:59 -0500</pubDate>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 18 Jan 2009 00:00:00 -0600</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1428]]></link>
+							<flag><![CDATA[<a href="country.php?ID=66"><img src="images/flags/el_salvador.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=66">El Salvador</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1428">Legislative</a>]]></thetype>
+							<thedate><![CDATA[January 18, 2009]]></thedate>
+							<title><![CDATA[El Salvador - Legislative - January 18, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 25 Jan 2009 00:00:00 -0600</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1675]]></link>
+							<flag><![CDATA[<a href="country.php?ID=27"><img src="images/flags/bolivia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=27">Bolivia</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1675">Referendum</a>]]></thetype>
+							<thedate><![CDATA[January 25, 2009]]></thedate>
+							<title><![CDATA[Bolivia - Referendum - January 25, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 31 Jan 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=59"><img src="images/flags/denmark.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=59">Denmark</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary (Cancelled)]]></thetype>
+							<thedate><![CDATA[February 2009]]></thedate>
+							<title><![CDATA[Denmark - Parliamentary (Cancelled) - February 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 08 Feb 2009 00:00:00 -0600</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1430]]></link>
+							<flag><![CDATA[<a href="country.php?ID=124"><img src="images/flags/leichtenstien.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=124">Liechtenstein</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1430">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[February 8, 2009]]></thedate>
+							<title><![CDATA[Liechtenstein - Parliamentary - February 8, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 08 Feb 2009 00:00:00 -0600</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1689]]></link>
+							<flag><![CDATA[<a href="country.php?ID=207"><img src="images/flags/switzerland.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=207">Switzerland</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1689">Referendum</a>]]></thetype>
+							<thedate><![CDATA[February 8, 2009]]></thedate>
+							<title><![CDATA[Switzerland - Referendum - February 8, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Tue, 10 Feb 2009 00:00:00 -0600</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1677]]></link>
+							<flag><![CDATA[<a href="country.php?ID=106"><img src="images/flags/israel.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=106">Israel</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1677">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[February 10, 2009]]></thedate>
+							<title><![CDATA[Israel - Parliamentary - February 10, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 15 Feb 2009 00:00:00 -0600</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1688]]></link>
+							<flag><![CDATA[<a href="country.php?ID=231"><img src="images/flags/venezuelanewflag.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=231">Venezuela</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1688">Referendum</a>]]></thetype>
+							<thedate><![CDATA[February 15, 2009]]></thedate>
+							<title><![CDATA[Venezuela - Referendum - February 15, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Tue, 10 Mar 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1431]]></link>
+							<flag><![CDATA[<a href="country.php?ID=141"><img src="images/flags/micronesia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=141">Micronesia</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1431">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[March 10, 2009]]></thedate>
+							<title><![CDATA[Micronesia - Parliamentary - March 10, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 12 Mar 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1446]]></link>
+							<flag><![CDATA[<a href="country.php?ID=10"><img src="images/flags/antigua_barbuda.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=10">Antigua and Barbuda</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1446">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[March 12, 2009]]></thedate>
+							<title><![CDATA[Antigua and Barbuda - Parliamentary - March 12, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 15 Mar 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1201]]></link>
+							<flag><![CDATA[<a href="country.php?ID=66"><img src="images/flags/el_salvador.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=66">El Salvador</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1201">Presidential</a>]]></thetype>
+							<thedate><![CDATA[March 15, 2009]]></thedate>
+							<title><![CDATA[El Salvador - Presidential - March 15, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Wed, 18 Mar 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1692]]></link>
+							<flag><![CDATA[<a href="country.php?ID=16"><img src="images/flags/azerbaijan.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=16">Azerbaijan</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1692">Referendum</a>]]></thetype>
+							<thedate><![CDATA[March 18, 2009]]></thedate>
+							<title><![CDATA[Azerbaijan - Referendum - March 18, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 21 Mar 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1434]]></link>
+							<flag><![CDATA[<a href="country.php?ID=194"><img src="images/flags/slovakia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=194">Slovakia</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1434">Presidential</a><br />First Round]]></thetype>
+							<thedate><![CDATA[March 21, 2009]]></thedate>
+							<title><![CDATA[Slovakia - Presidential First Round - March 21, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 22 Mar 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1447]]></link>
+							<flag><![CDATA[<a href="country.php?ID=128"><img src="images/flags/macedonia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=128">Macedonia</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1447">Presidential</a><br />First Round]]></thetype>
+							<thedate><![CDATA[March 22, 2009]]></thedate>
+							<title><![CDATA[Macedonia - Presidential First Round - March 22, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 22 Mar 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=49"><img src="images/flags/comoros.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=49">Comoros</a>]]></thecountry>
+							<thetype><![CDATA[Referendum (Postponed)]]></thetype>
+							<thedate><![CDATA[March 22, 2009]]></thedate>
+							<title><![CDATA[Comoros - Referendum (Postponed) - March 22, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 29 Mar 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1502]]></link>
+							<flag><![CDATA[<a href="country.php?ID=245"><img src="images/flags/montenegro.bmp" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=245">Montenegro</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1502">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[March 29, 2009]]></thedate>
+							<title><![CDATA[Montenegro - Parliamentary - March 29, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Tue, 31 Mar 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=49"><img src="images/flags/comoros.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=49">Comoros</a>]]></thecountry>
+							<thetype><![CDATA[Legislative (Postponed)]]></thetype>
+							<thedate><![CDATA[April 2009]]></thedate>
+							<title><![CDATA[Comoros - Legislative (Postponed) - April 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 04 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1700]]></link>
+							<flag><![CDATA[<a href="country.php?ID=194"><img src="images/flags/slovakia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=194">Slovakia</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1700">Presidential</a><br />Second Round]]></thetype>
+							<thedate><![CDATA[April 4, 2009]]></thedate>
+							<title><![CDATA[Slovakia - Presidential Second Round - April 4, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 05 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1432]]></link>
+							<flag><![CDATA[<a href="country.php?ID=142"><img src="images/flags/moldova.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=142">Moldova</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1432">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[April 5, 2009]]></thedate>
+							<title><![CDATA[Moldova - Parliamentary - April 5, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 05 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1698]]></link>
+							<flag><![CDATA[<a href="country.php?ID=128"><img src="images/flags/macedonia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=128">Macedonia</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1698">Presidential</a><br />Second Round]]></thetype>
+							<thedate><![CDATA[April 5, 2009]]></thedate>
+							<title><![CDATA[Macedonia - Presidential Second Round - April 5, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 09 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1341]]></link>
+							<flag><![CDATA[<a href="country.php?ID=4"><img src="images/flags/algeria.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=4">Algeria</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1341">Presidential</a><br />First Round]]></thetype>
+							<thedate><![CDATA[April 9, 2009]]></thedate>
+							<title><![CDATA[Algeria - Presidential First Round - April 9, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 09 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1420]]></link>
+							<flag><![CDATA[<a href="country.php?ID=102"><img src="images/flags/indonesia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=102">Indonesia</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1420">Legislative</a>]]></thetype>
+							<thedate><![CDATA[April 9, 2009]]></thedate>
+							<title><![CDATA[Indonesia - Legislative - April 9, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 16 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1450]]></link>
+							<flag><![CDATA[<a href="country.php?ID=101"><img src="images/flags/india.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=101">India</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1450">Parliamentary</a><br />Stage One]]></thetype>
+							<thedate><![CDATA[April 16, 2009]]></thedate>
+							<title><![CDATA[India - Parliamentary Stage One - April 16, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 19 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1704]]></link>
+							<flag><![CDATA[<a href="country.php?ID=94"><img src="images/flags/haiti.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=94">Haiti</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1704">Legislative</a><br />First Round]]></thetype>
+							<thedate><![CDATA[April 19, 2009]]></thedate>
+							<title><![CDATA[Haiti - Legislative First Round - April 19, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 19 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1705]]></link>
+							<flag><![CDATA[<a href="country.php?ID=252"><img src="images/flags/northercyprus.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=252">Northern Cyprus</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1705">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[April 19, 2009]]></thedate>
+							<title><![CDATA[Northern Cyprus - Parliamentary - April 19, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Wed, 22 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1373]]></link>
+							<flag><![CDATA[<a href="country.php?ID=198"><img src="images/flags/south_africa.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=198">South Africa</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1373">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[April 22, 2009]]></thedate>
+							<title><![CDATA[South Africa - Parliamentary - April 22, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 23 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1693]]></link>
+							<flag><![CDATA[<a href="country.php?ID=101"><img src="images/flags/india.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=101">India</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1693">Parliamentary</a><br />Stage Two]]></thetype>
+							<thedate><![CDATA[April 23, 2009]]></thedate>
+							<title><![CDATA[India - Parliamentary Stage Two - April 23, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 25 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1544]]></link>
+							<flag><![CDATA[<a href="country.php?ID=100"><img src="images/flags/iceland.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=100">Iceland</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1544">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[April 25, 2009]]></thedate>
+							<title><![CDATA[Iceland - Parliamentary - April 25, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 26 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1433]]></link>
+							<flag><![CDATA[<a href="country.php?ID=6"><img src="images/flags/andorra.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=6">Andorra</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1433">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[April 26, 2009]]></thedate>
+							<title><![CDATA[Andorra - Parliamentary - April 26, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 26 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1508]]></link>
+							<flag><![CDATA[<a href="country.php?ID=64"><img src="images/flags/ecuador.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=64">Ecuador</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1508">Legislative</a>]]></thetype>
+							<thedate><![CDATA[April 26, 2009]]></thedate>
+							<title><![CDATA[Ecuador - Legislative - April 26, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 26 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1509]]></link>
+							<flag><![CDATA[<a href="country.php?ID=64"><img src="images/flags/ecuador.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=64">Ecuador</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1509">Presidential</a>]]></thetype>
+							<thedate><![CDATA[April 26, 2009]]></thedate>
+							<title><![CDATA[Ecuador - Presidential - April 26, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 30 Apr 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1694]]></link>
+							<flag><![CDATA[<a href="country.php?ID=101"><img src="images/flags/india.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=101">India</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1694">Parliamentary</a><br />Stage Three]]></thetype>
+							<thedate><![CDATA[April 30, 2009]]></thedate>
+							<title><![CDATA[India - Parliamentary Stage Three - April 30, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 03 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1444]]></link>
+							<flag><![CDATA[<a href="country.php?ID=167"><img src="images/flags/panama.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=167">Panama</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1444">Legislative</a>]]></thetype>
+							<thedate><![CDATA[May 3, 2009]]></thedate>
+							<title><![CDATA[Panama - Legislative - May 3, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 03 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1445]]></link>
+							<flag><![CDATA[<a href="country.php?ID=167"><img src="images/flags/panama.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=167">Panama</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1445">Presidential</a>]]></thetype>
+							<thedate><![CDATA[May 3, 2009]]></thedate>
+							<title><![CDATA[Panama - Presidential - May 3, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 07 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1695]]></link>
+							<flag><![CDATA[<a href="country.php?ID=101"><img src="images/flags/india.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=101">India</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1695">Parliamentary</a><br />Stage Four]]></thetype>
+							<thedate><![CDATA[May 7, 2009]]></thedate>
+							<title><![CDATA[India - Parliamentary Stage Four - May 7, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 09 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1706]]></link>
+							<flag><![CDATA[<a href="country.php?ID=132"><img src="images/flags/maldives.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=132">Maldives</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1706">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[May 9, 2009]]></thedate>
+							<title><![CDATA[Maldives - Parliamentary - May 9, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Wed, 13 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1696]]></link>
+							<flag><![CDATA[<a href="country.php?ID=101"><img src="images/flags/india.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=101">India</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1696">Parliamentary</a><br />Stage Five]]></thetype>
+							<thedate><![CDATA[May 13, 2009]]></thedate>
+							<title><![CDATA[India - Parliamentary Stage Five - May 13, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 16 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1708]]></link>
+							<flag><![CDATA[<a href="country.php?ID=116"><img src="images/flags/kuwait.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=116">Kuwait</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1708">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[May 16, 2009]]></thedate>
+							<title><![CDATA[Kuwait - Parliamentary - May 16, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 17 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1451]]></link>
+							<flag><![CDATA[<a href="country.php?ID=125"><img src="images/flags/lithuania.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=125">Lithuania</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1451">Presidential</a><br />First Round]]></thetype>
+							<thedate><![CDATA[May 17, 2009]]></thedate>
+							<title><![CDATA[Lithuania - Presidential First Round - May 17, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 17 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1710]]></link>
+							<flag><![CDATA[<a href="country.php?ID=207"><img src="images/flags/switzerland.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=207">Switzerland</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1710">Referendum</a>]]></thetype>
+							<thedate><![CDATA[May 17, 2009]]></thedate>
+							<title><![CDATA[Switzerland - Referendum - May 17, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 17 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1712]]></link>
+							<flag><![CDATA[<a href="country.php?ID=49"><img src="images/flags/comoros.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=49">Comoros</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1712">Referendum</a>]]></thetype>
+							<thedate><![CDATA[May 17, 2009]]></thedate>
+							<title><![CDATA[Comoros - Referendum - May 17, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Tue, 19 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1435]]></link>
+							<flag><![CDATA[<a href="country.php?ID=130"><img src="images/flags/malawi.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=130">Malawi</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1435">Presidential</a>]]></thetype>
+							<thedate><![CDATA[May 19, 2009]]></thedate>
+							<title><![CDATA[Malawi - Presidential - May 19, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Tue, 19 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1436]]></link>
+							<flag><![CDATA[<a href="country.php?ID=130"><img src="images/flags/malawi.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=130">Malawi</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1436">Legislative</a>]]></thetype>
+							<thedate><![CDATA[May 19, 2009]]></thedate>
+							<title><![CDATA[Malawi - Legislative - May 19, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Wed, 20 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1741]]></link>
+							<flag><![CDATA[<a href="country.php?ID=142"><img src="images/flags/moldova.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=142">Moldova</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1741">Presidential</a>]]></thetype>
+							<thedate><![CDATA[May 20, 2009]]></thedate>
+							<title><![CDATA[Moldova - Presidential - May 20, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 23 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1713]]></link>
+							<flag><![CDATA[<a href="country.php?ID=82"><img src="images/flags/germany.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=82">Germany</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1713">Presidential</a>]]></thetype>
+							<thedate><![CDATA[May 23, 2009]]></thedate>
+							<title><![CDATA[Germany - Presidential - May 23, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 24 May 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1714]]></link>
+							<flag><![CDATA[<a href="country.php?ID=144"><img src="images/flags/mongolia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=144">Mongolia</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1714">Presidential</a>]]></thetype>
+							<thedate><![CDATA[May 24, 2009]]></thedate>
+							<title><![CDATA[Mongolia - Presidential - May 24, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 28 May 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=142"><img src="images/flags/moldova.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=142">Moldova</a>]]></thecountry>
+							<thetype><![CDATA[Presidential<br />Second Round (Postponed)]]></thetype>
+							<thedate><![CDATA[May 28, 2009]]></thedate>
+							<title><![CDATA[Moldova - Presidential<br />Second Round (Postponed) - May 28, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Tue, 02 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1715]]></link>
+							<flag><![CDATA[<a href="country.php?ID=86"><img src="images/flags/greenland.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=86">Greenland (part of Denmark)</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1715">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[June 2, 2009]]></thedate>
+							<title><![CDATA[Greenland (part of Denmark) - Parliamentary - June 2, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Wed, 03 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1748]]></link>
+							<flag><![CDATA[<a href="country.php?ID=142"><img src="images/flags/moldova.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=142">Moldova</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1748">Presidential</a><br />Second Round]]></thetype>
+							<thedate><![CDATA[June 3, 2009]]></thedate>
+							<title><![CDATA[Moldova - Presidential Second Round - June 3, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 04 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1716]]></link>
+							<flag><![CDATA[<a href="country.php?ID=244"><img src="images/flags/european_union.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=244">European Union</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1716">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[June 4, 2009]]></thedate>
+							<title><![CDATA[European Union - Parliamentary - June 4, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 06 Jun 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=137"><img src="images/flags/mauritania.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=137">Mauritania</a>]]></thecountry>
+							<thetype><![CDATA[Presidential<br />First Round (Postponed)]]></thetype>
+							<thedate><![CDATA[June 6, 2009]]></thedate>
+							<title><![CDATA[Mauritania - Presidential<br />First Round (Postponed) - June 6, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 07 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1438]]></link>
+							<flag><![CDATA[<a href="country.php?ID=126"><img src="images/flags/luxembourg.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=126">Luxembourg</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1438">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[June 7, 2009]]></thedate>
+							<title><![CDATA[Luxembourg - Parliamentary - June 7, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 07 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1680]]></link>
+							<flag><![CDATA[<a href="country.php?ID=120"><img src="images/flags/lebanonflag.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=120">Lebanon</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1680">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[June 7, 2009]]></thedate>
+							<title><![CDATA[Lebanon - Parliamentary - June 7, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 07 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1717]]></link>
+							<flag><![CDATA[<a href="country.php?ID=59"><img src="images/flags/denmark.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=59">Denmark</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1717">Referendum</a>]]></thetype>
+							<thedate><![CDATA[June 7, 2009]]></thedate>
+							<title><![CDATA[Denmark - Referendum - June 7, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Fri, 12 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1671]]></link>
+							<flag><![CDATA[<a href="country.php?ID=103"><img src="images/flags/iran.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=103">Iran</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1671">Presidential</a>]]></thetype>
+							<thedate><![CDATA[June 12, 2009]]></thedate>
+							<title><![CDATA[Iran - Presidential - June 12, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 21 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1718]]></link>
+							<flag><![CDATA[<a href="country.php?ID=107"><img src="images/flags/italy.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=107">Italy</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1718">Referendum</a>]]></thetype>
+							<thedate><![CDATA[June 21, 2009]]></thedate>
+							<title><![CDATA[Italy - Referendum - June 21, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 21 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1726]]></link>
+							<flag><![CDATA[<a href="country.php?ID=94"><img src="images/flags/haiti.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=94">Haiti</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1726">Legislative</a><br />Second Round]]></thetype>
+							<thedate><![CDATA[June 21, 2009]]></thedate>
+							<title><![CDATA[Haiti - Legislative Second Round - June 21, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 28 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1453]]></link>
+							<flag><![CDATA[<a href="country.php?ID=3"><img src="images/flags/albania.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=3">Albania</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1453">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[June 28, 2009]]></thedate>
+							<title><![CDATA[Albania - Parliamentary - June 28, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 28 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1455]]></link>
+							<flag><![CDATA[<a href="country.php?ID=11"><img src="images/flags/argentina.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=11">Argentina</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1455">Legislative</a>]]></thetype>
+							<thedate><![CDATA[June 28, 2009]]></thedate>
+							<title><![CDATA[Argentina - Legislative - June 28, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 28 Jun 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1524]]></link>
+							<flag><![CDATA[<a href="country.php?ID=92"><img src="images/flags/Guinea_Bissau.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=92">Guinea-Bissau</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1524">Presidential</a><br />First Round]]></thetype>
+							<thedate><![CDATA[June 28, 2009]]></thedate>
+							<title><![CDATA[Guinea-Bissau - Presidential First Round - June 28, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Tue, 30 Jun 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=79"><img src="images/flags/gabon.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=79">Gabon</a>]]></thecountry>
+							<thetype><![CDATA[Presidential]]></thetype>
+							<thedate><![CDATA[July 2009]]></thedate>
+							<title><![CDATA[Gabon - Presidential - July 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Tue, 30 Jun 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=104"><img src="images/flags/iraq.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=104">Iraq</a>]]></thecountry>
+							<thetype><![CDATA[Referendum]]></thetype>
+							<thedate><![CDATA[July 2009]]></thedate>
+							<title><![CDATA[Iraq - Referendum - July 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 05 Jul 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1437]]></link>
+							<flag><![CDATA[<a href="country.php?ID=34"><img src="images/flags/bulgaria.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=34">Bulgaria</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1437">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[July 5, 2009]]></thedate>
+							<title><![CDATA[Bulgaria - Parliamentary - July 5, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 05 Jul 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1452]]></link>
+							<flag><![CDATA[<a href="country.php?ID=140"><img src="images/flags/mexico_flag.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=140">Mexico</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1452">Legislative</a>]]></thetype>
+							<thedate><![CDATA[July 5, 2009]]></thedate>
+							<title><![CDATA[Mexico - Legislative - July 5, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Wed, 08 Jul 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1473]]></link>
+							<flag><![CDATA[<a href="country.php?ID=102"><img src="images/flags/indonesia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=102">Indonesia</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1473">Presidential</a><br />First Round]]></thetype>
+							<thedate><![CDATA[July 8, 2009]]></thedate>
+							<title><![CDATA[Indonesia - Presidential First Round - July 8, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 12 Jul 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1427]]></link>
+							<flag><![CDATA[<a href="country.php?ID=50"><img src="images/flags/congobraz.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=50">Congo (Brazzaville)</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1427">Presidential</a>]]></thetype>
+							<thedate><![CDATA[July 12, 2009]]></thedate>
+							<title><![CDATA[Congo (Brazzaville) - Presidential - July 12, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 18 Jul 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1749]]></link>
+							<flag><![CDATA[<a href="country.php?ID=137"><img src="images/flags/mauritania.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=137">Mauritania</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1749">Presidential</a><br />First Round]]></thetype>
+							<thedate><![CDATA[July 18, 2009]]></thedate>
+							<title><![CDATA[Mauritania - Presidential First Round - July 18, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 23 Jul 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1496]]></link>
+							<flag><![CDATA[<a href="country.php?ID=117"><img src="images/flags/kyrgyzstan.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=117">Kyrgyzstan</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1496">Presidential</a><br />First Round]]></thetype>
+							<thedate><![CDATA[July 23, 2009]]></thedate>
+							<title><![CDATA[Kyrgyzstan - Presidential First Round - July 23, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 26 Jul 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1763]]></link>
+							<flag><![CDATA[<a href="country.php?ID=92"><img src="images/flags/Guinea_Bissau.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=92">Guinea-Bissau</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1763">Presidential</a><br />Second Round]]></thetype>
+							<thedate><![CDATA[July 26, 2009]]></thedate>
+							<title><![CDATA[Guinea-Bissau - Presidential Second Round - July 26, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Wed, 29 Jul 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1756]]></link>
+							<flag><![CDATA[<a href="country.php?ID=142"><img src="images/flags/moldova.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=142">Moldova</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1756">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[July 29, 2009]]></thedate>
+							<title><![CDATA[Moldova - Parliamentary - July 29, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Fri, 31 Jul 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1731]]></link>
+							<flag><![CDATA[<a href="country.php?ID=155"><img src="images/flags/new_zealand.jpg" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=155">New Zealand</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1731">Referendum</a>]]></thetype>
+							<thedate><![CDATA[July 31, 2009]]></thedate>
+							<title><![CDATA[New Zealand - Referendum - July 31, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 02 Aug 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=49"><img src="images/flags/comoros.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=49">Comoros</a>]]></thecountry>
+							<thetype><![CDATA[Legislative]]></thetype>
+							<thedate><![CDATA[August 2, 2009]]></thedate>
+							<title><![CDATA[Comoros - Legislative - August 2, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Tue, 04 Aug 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=157"><img src="images/flags/niger.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=157">Niger</a>]]></thecountry>
+							<thetype><![CDATA[Referendum]]></thetype>
+							<thedate><![CDATA[August 4, 2009]]></thedate>
+							<title><![CDATA[Niger - Referendum - August 4, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 20 Aug 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1175]]></link>
+							<flag><![CDATA[<a href="country.php?ID=2"><img src="images/flags/afghan.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=2">Afghanistan</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1175">Presidential</a><br />First Round]]></thetype>
+							<thedate><![CDATA[August 20, 2009]]></thedate>
+							<title><![CDATA[Afghanistan - Presidential First Round - August 20, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Thu, 20 Aug 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=157"><img src="images/flags/niger.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=157">Niger</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[August 20, 2009]]></thedate>
+							<title><![CDATA[Niger - Parliamentary - August 20, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 30 Aug 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1454]]></link>
+							<flag><![CDATA[<a href="country.php?ID=109"><img src="images/flags/japan.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=109">Japan</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1454">Legislative</a>]]></thetype>
+							<thedate><![CDATA[August 30, 2009]]></thedate>
+							<title><![CDATA[Japan - Legislative - August 30, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Mon, 31 Aug 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1036]]></link>
+							<flag><![CDATA[<a href="country.php?ID=7"><img src="images/flags/angola.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=7">Angola</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1036">Presidential</a>]]></thetype>
+							<thedate><![CDATA[September 2009]]></thedate>
+							<title><![CDATA[Angola - Presidential - September 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Mon, 31 Aug 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1041]]></link>
+							<flag><![CDATA[<a href="country.php?ID=182"><img src="images/flags/st_kitts.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=182">Saint Kitts and Nevis</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1041">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[September 2009]]></thedate>
+							<title><![CDATA[Saint Kitts and Nevis - Parliamentary - September 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Mon, 31 Aug 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=129"><img src="images/flags/madagascar.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=129">Madagascar</a>]]></thecountry>
+							<thetype><![CDATA[Referendum]]></thetype>
+							<thedate><![CDATA[September 2009]]></thedate>
+							<title><![CDATA[Madagascar - Referendum - September 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Mon, 14 Sep 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1439]]></link>
+							<flag><![CDATA[<a href="country.php?ID=162"><img src="images/flags/norway.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=162">Norway</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1439">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[September 14, 2009]]></thedate>
+							<title><![CDATA[Norway - Parliamentary - September 14, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 20 Sep 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1733]]></link>
+							<flag><![CDATA[<a href="country.php?ID=127"><img src="images/flags/macao.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=127">Macau</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1733">Legislative</a>]]></thetype>
+							<thedate><![CDATA[September 20, 2009]]></thedate>
+							<title><![CDATA[Macau - Legislative - September 20, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Fri, 25 Sep 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=13"><img src="images/flags/aw.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=13">Aruba</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[September 25, 2009]]></thedate>
+							<title><![CDATA[Aruba - Parliamentary - September 25, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 27 Sep 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1476]]></link>
+							<flag><![CDATA[<a href="country.php?ID=174"><img src="images/flags/portugal.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=174">Portugal</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1476">Parliamentary</a>]]></thetype>
+							<thedate><![CDATA[September 27, 2009]]></thedate>
+							<title><![CDATA[Portugal - Parliamentary - September 27, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 27 Sep 2009 00:00:00 -0500</pubDate>
+							<link><![CDATA[http://www.electionguide.org/election.php?ID=1734]]></link>
+							<flag><![CDATA[<a href="country.php?ID=207"><img src="images/flags/switzerland.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=207">Switzerland</a>]]></thecountry>
+							<thetype><![CDATA[<a href="election.php?ID=1734">Referendum</a>]]></thetype>
+							<thedate><![CDATA[September 27, 2009]]></thedate>
+							<title><![CDATA[Switzerland - Referendum - September 27, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 27 Sep 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=82"><img src="images/flags/germany.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=82">Germany</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[September 27, 2009]]></thedate>
+							<title><![CDATA[Germany - Parliamentary - September 27, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Wed, 30 Sep 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=105"><img src="images/flags/ireland.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=105">Ireland</a>]]></thecountry>
+							<thetype><![CDATA[Referendum]]></thetype>
+							<thedate><![CDATA[October 2009]]></thedate>
+							<title><![CDATA[Ireland - Referendum - October 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Fri, 09 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=29"><img src="images/flags/botswana.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=29">Botswana</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[October 9, 2009]]></thedate>
+							<title><![CDATA[Botswana - Parliamentary - October 9, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Fri, 09 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=217"><img src="images/flags/tunisia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=217">Tunisia</a>]]></thecountry>
+							<thetype><![CDATA[Presidential]]></thetype>
+							<thedate><![CDATA[October 9, 2009]]></thedate>
+							<title><![CDATA[Tunisia - Presidential - October 9, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Fri, 09 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=217"><img src="images/flags/tunisia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=217">Tunisia</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[October 9, 2009]]></thedate>
+							<title><![CDATA[Tunisia - Parliamentary - October 9, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Fri, 09 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=58"><img src="images/flags/czech_republic.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=58">Czech Republic</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[October 9, 2009]]></thedate>
+							<title><![CDATA[Czech Republic - Parliamentary - October 9, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 11 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=91"><img src="images/flags/guinea.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=91">Guinea</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[October 11, 2009]]></thedate>
+							<title><![CDATA[Guinea - Parliamentary - October 11, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 25 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=223"><img src="images/flags/ukraine.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=223">Ukraine</a>]]></thecountry>
+							<thetype><![CDATA[Presidential]]></thetype>
+							<thedate><![CDATA[October 25, 2009]]></thedate>
+							<title><![CDATA[Ukraine - Presidential - October 25, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 25 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=228"><img src="images/flags/uruguay.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=228">Uruguay</a>]]></thecountry>
+							<thetype><![CDATA[Legislative]]></thetype>
+							<thedate><![CDATA[October 25, 2009]]></thedate>
+							<title><![CDATA[Uruguay - Legislative - October 25, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 25 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=228"><img src="images/flags/uruguay.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=228">Uruguay</a>]]></thecountry>
+							<thetype><![CDATA[Presidential]]></thetype>
+							<thedate><![CDATA[October 25, 2009]]></thedate>
+							<title><![CDATA[Uruguay - Presidential - October 25, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 25 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=11"><img src="images/flags/argentina.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=11">Argentina</a>]]></thecountry>
+							<thetype><![CDATA[Legislative (Postponed)]]></thetype>
+							<thedate><![CDATA[October 25, 2009]]></thedate>
+							<title><![CDATA[Argentina - Legislative (Postponed) - October 25, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Wed, 28 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=147"><img src="images/flags/mozambique.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=147">Mozambique</a>]]></thecountry>
+							<thetype><![CDATA[Presidential]]></thetype>
+							<thedate><![CDATA[October 28, 2009]]></thedate>
+							<title><![CDATA[Mozambique - Presidential - October 28, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Wed, 28 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=147"><img src="images/flags/mozambique.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=147">Mozambique</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[October 28, 2009]]></thedate>
+							<title><![CDATA[Mozambique - Parliamentary - October 28, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 31 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=149"><img src="images/flags/namibia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=149">Namibia</a>]]></thecountry>
+							<thetype><![CDATA[Presidential]]></thetype>
+							<thedate><![CDATA[November 2009]]></thedate>
+							<title><![CDATA[Namibia - Presidential - November 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 31 Oct 2009 00:00:00 -0500</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=149"><img src="images/flags/namibia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=149">Namibia</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[November 2009]]></thedate>
+							<title><![CDATA[Namibia - Parliamentary - November 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 14 Nov 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=157"><img src="images/flags/niger.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=157">Niger</a>]]></thecountry>
+							<thetype><![CDATA[Presidential<br />First Round]]></thetype>
+							<thedate><![CDATA[November 14, 2009]]></thedate>
+							<title><![CDATA[Niger - Presidential First Round - November 14, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 28 Nov 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=178"><img src="images/flags/romania2.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=178">Romania</a>]]></thecountry>
+							<thetype><![CDATA[Presidential<br />First Round]]></thetype>
+							<thedate><![CDATA[November 28, 2009]]></thedate>
+							<title><![CDATA[Romania - Presidential First Round - November 28, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 29 Nov 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=97"><img src="images/flags/honduras.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=97">Honduras</a>]]></thecountry>
+							<thetype><![CDATA[Legislative]]></thetype>
+							<thedate><![CDATA[November 29, 2009]]></thedate>
+							<title><![CDATA[Honduras - Legislative - November 29, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 29 Nov 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=97"><img src="images/flags/honduras.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=97">Honduras</a>]]></thecountry>
+							<thetype><![CDATA[Presidential]]></thetype>
+							<thedate><![CDATA[November 29, 2009]]></thedate>
+							<title><![CDATA[Honduras - Presidential - November 29, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 29 Nov 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=54"><img src="images/flags/cotedivoire.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=54">Cote d'Ivoire</a>]]></thecountry>
+							<thetype><![CDATA[Presidential]]></thetype>
+							<thedate><![CDATA[November 29, 2009]]></thedate>
+							<title><![CDATA[Cote d'Ivoire - Presidential - November 29, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 29 Nov 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=207"><img src="images/flags/switzerland.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=207">Switzerland</a>]]></thecountry>
+							<thetype><![CDATA[Referendum]]></thetype>
+							<thedate><![CDATA[November 29, 2009]]></thedate>
+							<title><![CDATA[Switzerland - Referendum - November 29, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Mon, 30 Nov 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=4"><img src="images/flags/algeria.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=4">Algeria</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[December 2009]]></thedate>
+							<title><![CDATA[Algeria - Parliamentary - December 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Mon, 30 Nov 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=229"><img src="images/flags/uzbekistan.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=229">Uzbekistan</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[December 2009]]></thedate>
+							<title><![CDATA[Uzbekistan - Parliamentary - December 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Mon, 30 Nov 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=129"><img src="images/flags/madagascar.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=129">Madagascar</a>]]></thecountry>
+							<thetype><![CDATA[Presidential (Postponed)]]></thetype>
+							<thedate><![CDATA[December 2009]]></thedate>
+							<title><![CDATA[Madagascar - Presidential (Postponed) - December 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 06 Dec 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=27"><img src="images/flags/bolivia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=27">Bolivia</a>]]></thecountry>
+							<thetype><![CDATA[Presidential]]></thetype>
+							<thedate><![CDATA[December 6, 2009]]></thedate>
+							<title><![CDATA[Bolivia - Presidential - December 6, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 06 Dec 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=27"><img src="images/flags/bolivia.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=27">Bolivia</a>]]></thecountry>
+							<thetype><![CDATA[Legislative]]></thetype>
+							<thedate><![CDATA[December 6, 2009]]></thedate>
+							<title><![CDATA[Bolivia - Legislative - December 6, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 06 Dec 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=157"><img src="images/flags/niger.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=157">Niger</a>]]></thecountry>
+							<thetype><![CDATA[Presidential<br />Second Round]]></thetype>
+							<thedate><![CDATA[December 6, 2009]]></thedate>
+							<title><![CDATA[Niger - Presidential Second Round - December 6, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Fri, 11 Dec 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=44"><img src="images/flags/chile.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=44">Chile</a>]]></thecountry>
+							<thetype><![CDATA[Presidential]]></thetype>
+							<thedate><![CDATA[December 11, 2009]]></thedate>
+							<title><![CDATA[Chile - Presidential - December 11, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Fri, 11 Dec 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=44"><img src="images/flags/chile.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=44">Chile</a>]]></thecountry>
+							<thetype><![CDATA[Legislative]]></thetype>
+							<thedate><![CDATA[December 11, 2009]]></thedate>
+							<title><![CDATA[Chile - Legislative - December 11, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sat, 12 Dec 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=178"><img src="images/flags/romania2.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=178">Romania</a>]]></thecountry>
+							<thetype><![CDATA[Presidential<br />Second Round]]></thetype>
+							<thedate><![CDATA[December 12, 2009]]></thedate>
+							<title><![CDATA[Romania - Presidential Second Round - December 12, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 13 Dec 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=91"><img src="images/flags/guinea.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=91">Guinea</a>]]></thecountry>
+							<thetype><![CDATA[Presidential<br />First Round]]></thetype>
+							<thedate><![CDATA[December 13, 2009]]></thedate>
+							<title><![CDATA[Guinea - Presidential First Round - December 13, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[1]]></has_month>
+							<pubDate>Sun, 27 Dec 2009 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=91"><img src="images/flags/guinea.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=91">Guinea</a>]]></thecountry>
+							<thetype><![CDATA[Presidential<br />Second Round]]></thetype>
+							<thedate><![CDATA[December 27, 2009]]></thedate>
+							<title><![CDATA[Guinea - Presidential Second Round - December 27, 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[0]]></has_month>
+							<pubDate>Sun, 30 Nov 2008 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=43"><img src="images/flags/chad.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=43">Chad</a>]]></thecountry>
+							<thetype><![CDATA[Parliamentary]]></thetype>
+							<thedate><![CDATA[2009]]></thedate>
+							<title><![CDATA[Chad - Parliamentary - 2009]]></title>
+      </item>
+
+      <item>
+							<has_month><![CDATA[0]]></has_month>
+							<pubDate>Sun, 30 Nov 2008 00:00:00 -0600</pubDate>
+							<flag><![CDATA[<a href="country.php?ID=230"><img src="images/flags/vanuatu.gif" style="width:50px" /></a>]]></flag>
+							<thecountry><![CDATA[<a href="country.php?ID=230">Vanuatu</a>]]></thecountry>
+							<thetype><![CDATA[Presidential]]></thetype>
+							<thedate><![CDATA[2009]]></thedate>
+							<title><![CDATA[Vanuatu - Presidential - 2009]]></title>
+      </item>
+
+    </channel>
+  </rss>  

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml_map_data id="parent">
+	<destination id="1" x_coord="396" y_coord="173" countryID="AU" CountryName="Australia" flag="AF.jpg" EventName="Election event Name" date="11/10/2005" url="dummyurl.com"> </destination>
+	<destination id="1" x_coord="396" y_coord="173" countryID="AU" CountryName="Australia" flag="AF.jpg" EventName="Election event name2" date="11/13/2005" url="dummyurl.com"> </destination>
+	<destination id="1" x_coord="396" y_coord="173" countryID="AU" CountryName="Australia" flag="AF.jpg" EventName="Election event name3" date="11/17/2005" url="dummyurl.com"> </destination>
+	<destination id="1" x_coord="248" y_coord="55" countryID="EE" CountryName="Estonia" flag="AF.jpg" EventName="Election event name4" date="11/10/2005" url="dummyurl.com"> </destination>
+</xml_map_data>

@@ -1,0 +1,843 @@
+/*
+	Client:		ElectionGuide.org
+	Title:		Stylesheet for screen media
+	Author:		Jason Garber, jgarber@esitemarketing.com
+	Copyright:	E-site Marketing, LLC, http://www.esitemarketing.com
+	Created:	31 October 2005
+	Updated:	10 November 2005
+*/
+
+/* ----- Import external stylesheets -----------------*/
+@import url("nav.css");
+
+
+/* ----- Generic styles ------------------------------*/
+* {
+	margin: 0;
+	padding: 0;
+	}
+
+body {
+	padding: 15px 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 62.5%;
+	text-align: center;
+	background: #b9bcca;
+	}
+
+a img {
+	border: 0;
+	}
+
+hr {
+	display: none;
+	}
+
+hr#clear-hack {
+	display: block;
+	clear: both;
+	visibility: hidden;
+	}
+
+/* ----- Page layout ---------------------------------*/
+div#jump-links {
+	display: none;
+	}
+
+div#wrapper {
+	width: 750px;
+	margin: 0 auto;
+	text-align: left;
+	background: white;
+	}
+
+h1#logo {
+	position: relative;
+	height: 100px;
+	border: solid #1e466e;
+	border-width: 1px 1px 0 1px;
+	background: url("../images/header-bg.jpg") no-repeat 0 0;
+	}
+
+h1#logo a#home-link {
+	position: absolute;
+	left: 12px;
+	top: 55px;
+	display: block;
+	width: 225px;
+	height: 30px;
+	}
+
+h1#logo a#ifes-link {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	display: block;
+	width: 100px;
+	height: 100px;
+	}
+
+h1#logo a em {
+	position: absolute;
+	left: -9999px;
+	}
+
+div#main-wrapper {
+	padding: 30px 20px 20px 20px;
+	background: url("../images/main-wrapper-bg.gif") repeat-x 0 0;
+	}
+
+div#content-wrapper {
+	float: right;
+	width: 480px;
+	padding-bottom: 2em;
+	}
+div#wide-content-wrapper {
+	float: right;
+	width: 710px;
+	padding-bottom: 2em;
+	}
+	
+div#sidebar-wrapper {
+	width: 210px;
+	}
+
+div#footer {
+	width: 735px;
+	height: 22px;
+	padding: 4px 0 0 15px;
+	background: url("../images/footer-bg.gif") repeat-x 0 0;
+	}
+
+* html div#footer { width: 750px; }
+
+div#footer span a {
+	font-size: 1.2em;
+	font-weight: bold;
+	text-decoration: underline;
+	color: #e6e4d8;
+	}
+
+div#footer span a:hover {
+	color: #d1cfc5;
+	}
+	
+	
+div#copyright {
+	font-size: 1.1em;
+	color: #000000;
+	text-align:center;
+	}
+
+
+/* ----- Search sidebar rules ------------------------*/
+div#search-wrapper {
+	height: 209px;
+	margin-bottom: 20px;
+	padding: 0 16px 0 6px;
+	background: url("../images/search-wrapper-bg.gif") no-repeat 0 0;
+	}
+
+div#search-wrapper h2 {
+	margin-bottom: 0.5em;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	line-height: 1.1em;
+	color: white;
+	}
+
+div#search-wrapper label {
+	font-size: 1.1em;
+	}
+
+div#search-wrapper select {
+	width: 150px;
+	margin: 0.25em 0 0.6em 0;
+	font-size: 1.1em;
+	}
+
+div#search-wrapper select#year {
+	width: 75px;
+	}
+
+div#search-wrapper p {
+	margin-top: 0.75em;
+	text-align: right;
+	font-size: 1.1em;
+	}
+
+div#search-wrapper p a {
+	text-decoration: underline;
+	color: #3366ff;
+	}
+
+div#search-wrapper p a:hover {
+	color: #0134ce;
+	}
+
+
+/* ----- Upcoming elections sidebar rules ------------*/
+div#upcoming-sidebar-wrapper {
+	position: relative;
+	width: 200px;
+	height: 145px;
+	margin-bottom: 20px;
+	text-align: center;
+	background: #efefe7 url("../images/upcoming-sidebar-wrapper-bg.gif") no-repeat 0 100%;
+	}
+
+div#upcoming-sidebar-wrapper h2 {
+	height: 23px;
+	padding-top: 5px;
+	margin-bottom: 10px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: white;
+	background: url("../images/upcoming-sidebar-wrapper-header-bg.gif") no-repeat 0 0;
+	}
+
+* html div#upcoming-sidebar-wrapper h2 { height: 28px; }
+
+div#upcoming-sidebar-wrapper a {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 200px;
+	height: 107px;
+	padding-top: 38px;
+	}
+
+* html div#upcoming-sidebar-wrapper a {
+	height: 145px;
+	}
+
+
+/* ----- News sidebar rules --------------------------*/
+div#news-wrapper h2 {
+	border-bottom: 1px solid #4a6e94;
+	margin-bottom: 0.3em;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #1e466e;
+	}
+div#news-wrapper h2 a {
+	text-decoration:none;
+	color: #1e466e;
+	}
+	
+div#news-wrapper dl {
+	margin-bottom: 2em;
+	font-size: 1.2em;
+	}
+
+div#news-wrapper dl dt a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #003399;
+	}
+
+div#news-wrapper dl dt a:hover {
+	color: #0041c3;
+	}
+
+div#news-wrapper dl dd {
+	margin-bottom: 0.75em;
+	}
+
+div#news-wrapper p a {
+	text-decoration: underline;
+	color: #3366ff;
+	}
+
+div#news-wrapper p a:hover {
+	color: #0134ce;
+	}
+
+div#news-wrapper img {
+	vertical-align: middle;
+	}
+
+
+/* ----- Content rules -------------------------------*/
+div#content-wrapper h2,
+div#wide-content-wrapper h2 {
+	border-bottom: 1px solid #4a6e94;
+	margin-top: 0.25em;
+	margin-bottom: 0.75em;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 1.6em;
+	font-weight: bold;
+	color: #1e466e;
+	white-space:nowrap;
+	}
+
+div#content-wrapper h3,
+div#wide-content-wrapper h3 {
+	margin-top: 1.5em;
+	font-size: 1.3em;
+	font-weight: bold;
+	}
+
+div#content-wrapper ul,
+div#content-wrapper ol,
+div#wide-content-wrapper ol,
+div#wide-content-wrapper ul {
+	margin-bottom: 1.2em;
+	margin-left: 2.5em;
+	margin-top: 0.8em;
+	font-size: 1.2em;
+	}
+
+div#content-wrapper li,
+div#wide-content-wrapper li {
+	margin-bottom: 0.4em;
+	}
+
+div#content-wrapper p,
+div#wide-content-wrapper p {
+	margin-bottom: 1.5em;
+	font-size: 1.2em;
+	line-height: 1.5em;
+	}
+
+div#content-wrapper a,
+div#wide-content-wrapper a {
+	text-decoration: underline;
+	color: #3366ff;
+	}
+
+div#content-wrapper a:hover,
+div#wide-content-wrapper a:hover {
+	color: #0134ce;
+	}
+
+div#upcoming-wrapper {
+	float: right;
+	margin: 10px 0 1.5em 1.5em;
+	padding-bottom: 12px;
+	width: 210px;
+	background: #e4e2d5 url("../images/interior/upcoming-bg.gif") no-repeat 0 100%;
+	}
+
+div#upcoming-wrapper h3 {
+	margin: 0 0 0.5em 0;
+	padding: 2px 10px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 1.3em;
+	font-weight: bold;
+	color: white;
+	background: #c2bea3 url("../images/interior/upcoming-header-bg.gif") no-repeat 0 0;
+	}
+
+div#upcoming-wrapper ul {
+	font-size: 1.1em;
+	color: #4b6f93;
+	}
+
+div#upcoming-wrapper ul a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #4b6f93;
+	}
+
+div#upcoming-wrapper ul li {
+	margin: 0 0 0.2em 0;
+}
+
+div#upcoming-wrapper ul a:hover {
+	color: #3f80c1;
+}
+
+div#content-wrapper .current-news ul {
+	margin-left: 0;
+	font-size: 1.1em;
+	list-style: none;
+}
+
+div#content-wrapper .current-news ul li {
+	margin-bottom: 1em;
+}
+
+div#content-wrapper div.country-meta {
+	width:450px;
+	background: #efefe7 url("../images/eguide-wide-top.gif") no-repeat 0 0;
+	margin: 0 0 10px 0;
+	position:relative;
+}
+
+div#content-wrapper div.country-meta h3,
+div#content-wrapper div.country-meta div h3{
+	margin:0px 10px 0 10px;
+}
+
+div#content-wrapper div.country-meta div{
+    margin-bottom:10px;
+}
+
+div#content-wrapper div.country-meta p{
+	margin:0px 10px 10px 10px;
+}
+
+div#content-wrapper div.country-meta h3.country-name {
+	height: 23px;
+	margin: 0 10px 10px 10px;
+	padding: 10px 10px 0 10px;
+	border-bottom:1px solid grey;
+	}
+
+div#content-wrapper div.country-meta ul {
+	list-style: none;
+	margin: 0 10px 10px 10px;
+	}
+	
+div#content-wrapper div.country-meta ul li {
+	margin-bottom: 0;
+	}	
+
+div#content-wrapper div.country-meta ul a {
+	font-weight: normal;
+	text-decoration: none;
+	color: #1f4671;
+	}
+
+div#content-wrapper div.country-meta ul a:hover {
+	text-decoration: underline;
+	color: #2172c4;
+	}
+
+
+/* ----- Table rules (including forms) -------------*/
+div#content-wrapper table {
+	border-collapse: collapse;
+	font-size: 1em;
+	}
+
+div#content-wrapper table#country-meta, div#content-wrapper table#country-meta label {
+	font-size: 1.1em;
+	}
+
+div#content-wrapper table#country-meta select {
+	font-size: 1em;
+	}
+div#content-wrapper table#country-meta td {
+	padding-right: 10px;
+	vertical-align: top;
+	}
+
+div#content-wrapper table#country-meta ul {
+	list-style: none;
+	margin: 0;
+	}
+
+div#content-wrapper table#country-meta ul a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #1f4671;
+	}
+
+div#content-wrapper table#country-meta ul a:hover {
+	text-decoration: underline;
+	color: #2172c4;
+	}
+
+div#content-wrapper table#election-calendar {
+	width: 100%;
+	margin-top: 1.5em;
+	font-size: 1.1em;
+	}
+
+div#content-wrapper table#election-calendar thead th {
+	border-bottom: 2px solid #a9bacc;
+	padding: 3px 5px;
+	text-align: left;
+	}
+
+div#content-wrapper table#election-calendar tbody tr {
+	background: #efefe7;
+	}
+
+div#content-wrapper table#election-calendar tbody th {
+	border: solid #a9bacc;
+	border-width: 0 0 2px 2px;
+	padding: 5px;
+	text-align: left;
+	vertical-align: middle;
+	}
+
+div#content-wrapper table#election-calendar tbody td {
+	border-bottom: 2px solid #a9bacc;
+	padding: 5px;
+	vertical-align: middle;
+	}
+
+div#content-wrapper table#election-calendar tbody td.last {
+	border-right: 2px solid #a9bacc;}
+	
+div#content-wrapper table#election-calendar tbody td.first {
+	border-left: 2px solid #a9bacc;}
+	
+div#content-wrapper table#election-calendar a {
+	text-decoration: underline;
+	color: #003399;
+	}
+
+div#content-wrapper table#election-calendar a:hover {
+	color: #0041c3;
+	}
+div#content-wrapper table#election-calendar img {
+	border: 1px solid silver;
+	}
+
+div#content-wrapper table.form-table th {
+	padding-right: 5px;
+	font-size: 1.2em;
+	font-weight: normal;
+	text-align: right;
+	vertical-align: top;
+	}
+
+div#content-wrapper table.form-table th label {
+	display: block;
+	width: 150px;
+	padding-top: 4px;
+	}
+
+div#content-wrapper table.form-table td {
+	padding-bottom: 5px;
+	font-size: 1.2em;
+	}
+
+table.form-table input, table.form-table select, table.form-table textarea {
+	font-family: Arial, Helvetica, sans-serif;
+	}
+
+input#first_name, input#last_name, input#email { width: 200px; }
+textarea#comments { width: 250px; height: 100px; }
+input#submit { margin-top: 1em; }
+
+h3.results {
+    font-size: 1.4em;
+    color: #1f4671;
+}
+h3.provisiontitle, h3.title {
+    font-size: 1.4em;
+    color: #1f4671;
+    border-bottom: 1px solid #666666;
+}
+p.refdesc {
+    padding-left: 5px;
+}
+
+div#content-wrapper table.main-results-table,
+div#content-wrapper table.results-table {
+	width: 100%;
+	margin: 8px 0 8px 0;
+	font-size: 1.2em;
+	text-align: left;
+}
+table.main-results-table {
+	width: 700px;
+	margin: 5px 0 8px 0;
+	font-size: 1.15em;
+	text-align: left;
+}
+div#content-wrapper table.results-table thead,
+div#wide-content-wrapper table.main-results-table thead{
+	background: white url("../images/main-wrapper-bg.gif") repeat-x 0 0;
+	border-bottom: 1px solid #666666;
+	border-top: 1px solid #999999;
+}
+
+.results-table th {
+    text-align: center;
+}
+div#content-wrapper table.results-table td,
+div#content-wrapper table.main-results-table td,
+div#wide-content-wrapper table.main-results-table td {
+	vertical-align: top;
+	padding: 3px 5px 3px 5px;
+	border-bottom: 1px solid #666666;
+}
+
+div#content-wrapper table.results-table th,
+div#content-wrapper table.main-results-table th,
+div#wide-content-wrapper table.main-results-table th {
+	padding: 3px;
+	vertical-align: top;
+	border-bottom: 1px solid #666666;
+}
+
+div#content-wrapper table.results-table thead,
+div#wide-content-wrapper table.main-results-table thead {
+    color: #1f4671;
+}
+
+
+div#content-wrapper table.results-table a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #1f4671;
+}
+
+.results-table th.candidates,
+.results-table td.candidates {
+    width:160px;
+    text-align: left;
+}
+.results-table th.party_candidates,
+.results-table td.party_candidates {
+    width:200px;
+    text-align: left;
+}
+.votes {
+    width:60px;
+    text-align: left;
+}
+
+.results-table td.centered,
+.main-results-table th.centered {
+    text-align: center;
+}
+
+.results-table td.right,
+.main-results-table td.right,
+.results-table th.right,
+.main-results-table th.right {
+    text-align: right;
+}
+
+table#search-table {
+ 	width: 100%;
+	margin: 5px 0 8px 0; 
+}
+
+
+
+table#search-table {
+	font-size: 1.2em;
+	text-align: left;
+}
+table#search-table thead{
+	background: white url("../images/main-wrapper-bg.gif") repeat-x 0 0;
+}
+
+#search-table th {
+    text-align: right;
+    font-weight: bold;
+    font-size: 1.0em;
+}
+#search-table th label {
+    width: 100px;
+}
+table#search-table td {
+	vertical-align: top;
+	padding: 3px 5px 3px 5px;
+}
+
+table#search-table th {
+	padding: 3px;
+	vertical-align: top;
+}
+
+table#search-table thead {
+    color: #1f4671;
+}
+
+table#search-table a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #1f4671;
+}
+table#wide-search-table {
+    font-size: 1.1em;
+}
+
+table#wide-search-table td {
+    line-height: 1.4em;
+}
+
+table#wide-search-table td input,
+table#wide-search-table td select,
+table#wide-search-table td textarea {
+    font-size: 1.1em;
+}
+
+table#wide-search-table td label {
+    font-size: 1.1em;
+}
+table#wide-search-table td span.etype {
+    font-size: 1.1em;
+}
+
+
+table#wide-search-table th {
+    text-align: right;
+    font-weight: bold;
+    font-size: 1.0em;
+}
+
+table#wide-search-table table {
+    font-size: 1.0em;
+}
+
+table#newsletter{
+    width: 660px;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+table#newsletter-results{
+    width: 450px;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+
+table#newsletter th, table#newsletter-results th{
+    background: #4B6B8C;
+    color: #ffffff;
+    height: 25px;
+    padding-left: 8px;
+}
+
+table#newsletter td, table#newsletter-results td{
+    background: #D8E7EC;
+    color: #000000;
+    height: 25px;
+    padding-left: 8px;
+}
+
+table#newsletter td a, table#newsletter-results td a{
+    color: #3366CC;
+    text-decoration: none;
+}
+
+
+
+/* ----- Forms (non-sidebar) rules -------------------*/
+form#calendar-search {
+	float: right;
+	}
+
+form#calendar-search * {
+	vertical-align: middle;
+	}
+
+form#calendar-search label {
+	font-size: 1.1em;
+	}
+
+form#calendar-search select#cal-year {
+	width: 75px;
+	font-size: 1.1em;
+	}
+
+
+
+/* ----- Advertisements rules ------------------------*/
+div.ad {
+	margin: 2em 0 1em 0;
+	text-align: center;}
+
+/* ----- misc rules ------------------------*/
+
+div.countrypicker {
+    font-size: 1.0em;
+    margin: 10px 0;
+}
+option {
+    margin: 0 0 0 5px;
+    font-size: 1.0em;
+}
+p.errors {
+    border: 1px solid red;
+    border-left: 4px solid red;
+    padding: 5px;
+}
+div#content-wrapper p.comment {
+    margin:0;
+}
+div#content-wrapper p.comments_border {
+    margin-top: 5px;
+    border: 1px solid silver;
+    padding: 3px 3px 3px 5px;
+}
+
+
+
+/* ---- Newsletter ------------------------------------*/
+h1.newsletter-header{
+ width: 661px;
+ border-bottom: 1px solid #000000;
+ margin-bottom: 5px;
+}
+
+h2.newsletter-country-name{
+  font-weight: bold;
+  font-size: 1.1em;
+  display:inline;
+  margin-right: 3px;
+  margin-left: 5px;
+}
+
+h2.newsletter-country-name a{
+  color:#3366CC;
+  text-decoration: none;
+}
+
+h3.newsletter-news-date{
+  color:#000000;
+  font-weight: bold;
+  font-size: 1.1em;
+  display:inline;
+}
+
+p.newsletter-text{
+  margin-bottom: 11px;
+  margin-left: 5px;
+  line-height: 18px;
+  font-size: 1.1em;
+}
+
+p.bottom-text{
+  margin-bottom: 11px;
+  margin-left: 5px;
+  line-height: 18px;
+  font-size: 1.1em;
+  font-weight: bold;
+
+}
+
+#sponsors{
+  float: right;
+  background: #E3E0D3;
+  width: 170px;
+  margin: 5px 45px 0 0;
+  text-align:center;
+  padding: 5px 0;
+}
+
+
+div#footer-newsletter {
+	width: 735px;
+	height: 22px;
+	padding: 4px 0 0 15px;
+	background: url("../images/footer-bg.gif") repeat-x 0 0;
+	}
+
+div#footer-newsletter span a {
+	font-size: 1.2em;
+	font-weight: bold;
+	text-decoration: underline;
+	color: #e6e4d8;
+	}
+
+div#footer-newsletter span a:hover {
+	color: #d1cfc5;
+	}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	  <rss version="2.0">
+		<channel>
+		  <title>ElectionGuide.org Upcoming Elections</title>
+		  <description>Upcoming Elections</description>
+		  <language>en-us</language>
+		  <copyright>(C) Copyright 2006, all rights reserved</copyright>
+		  <lastBuildDate>Wed, 07 Nov 2007 14:00:41 -0600</lastBuildDate>
+	
+		<item>
+			<title>Lebanon</title>
+			<description>Presidential - November 12</description>
+			<link>http://www.electionguide.org/country.php?ID=120</link>
+			<guid isPermaLink='true'>http://www.electionguide.org/country.php?ID=120</guid>
+		</item>
+				
+	
+		<item>
+			<title>Denmark</title>
+			<description>Parliamentary - November 13</description>
+			<link>http://www.electionguide.org/country.php?ID=59</link>
+			<guid isPermaLink='true'>http://www.electionguide.org/country.php?ID=59</guid>
+		</item>
+				
+	
+		<item>
+			<title>Kosovo (UN-administered territory within Serbia)</title>
+			<description>Parliamentary - November 17</description>
+			<link>http://www.electionguide.org/election.php?ID=1141</link>
+			<guid isPermaLink='true'>http://www.electionguide.org/election.php?ID=1141</guid>
+		</item>
+				
+	
+		<item>
+			<title>Nepal</title>
+			<description>Legislative (Postponed) - November 22</description>
+			<link>http://www.electionguide.org/country.php?ID=151</link>
+			<guid isPermaLink='true'>http://www.electionguide.org/country.php?ID=151</guid>
+		</item>
+				
+	
+		<item>
+			<title>Australia</title>
+			<description>Parliamentary - November 24</description>
+			<link>http://www.electionguide.org/election.php?ID=1372</link>
+			<guid isPermaLink='true'>http://www.electionguide.org/election.php?ID=1372</guid>
+		</item>
+				
+	
+		<item>
+			<title>Croatia</title>
+			<description>Parliamentary - November 25</description>
+			<link>http://www.electionguide.org/election.php?ID=1146</link>
+			<guid isPermaLink='true'>http://www.electionguide.org/election.php?ID=1146</guid>
+		</item>
+				
+	
+		<item>
+			<title>Kenya</title>
+			<description>Presidential - December</description>
+			<link>http://www.electionguide.org/country.php?ID=112</link>
+			<guid isPermaLink='true'>http://www.electionguide.org/country.php?ID=112</guid>
+		</item>
+				
+	
+		<item>
+			<title>Kenya</title>
+			<description>Parliamentary - December</description>
+			<link>http://www.electionguide.org/country.php?ID=112</link>
+			<guid isPermaLink='true'>http://www.electionguide.org/country.php?ID=112</guid>
+		</item>
+				
+	
+		<item>
+			<title>Taiwan</title>
+			<description>Parliamentary - December</description>
+			<link>http://www.electionguide.org/country.php?ID=209</link>
+			<guid isPermaLink='true'>http://www.electionguide.org/country.php?ID=209</guid>
+		</item>
+				
+	
+		<item>
+			<title>Russia</title>
+			<description>Parliamentary - December 2</description>
+			<link>http://www.electionguide.org/country.php?ID=179</link>
+			<guid isPermaLink='true'>http://www.electionguide.org/country.php?ID=179</guid>
+		</item>
+				
+	
+		</channel>
+	  </rss>  
+	

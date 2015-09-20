@@ -1,0 +1,1 @@
+<div id="jump-links"><strong>Welcome to ElectionGuide.</strong> Skip directly to: <a href="#nav-primary">Site Navigation</a>, <a href="#content-wrapper">Content</a>, <a href="#search-wrapper">Election Search</a>.</div>

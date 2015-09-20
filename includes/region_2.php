@@ -1,0 +1,1 @@
+<?php $regions = array('18'=>'Bahrain','65'=>'Egypt','103'=>'Iran','104'=>'Iraq','106'=>'Israel','110'=>'Jordan','116'=>'Kuwait','120'=>'Lebanon','163'=>'Oman','166'=>'Palestinian Territories','176'=>'Qatar','208'=>'Syria','218'=>'Turkey','237'=>'Yemen',); ?>

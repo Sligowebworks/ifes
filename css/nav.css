@@ -1,0 +1,124 @@
+/*
+	Client:		ElectionGuide.org
+	Title:		Navigation stylesheet for screen media
+	Author:		Jason Garber, jgarber@esitemarketing.com
+	Copyright:	E-site Marketing, LLC, http://www.esitemarketing.com
+	Created:	31 October 2005
+	Updated:	14 November 2005
+*/
+
+/* ----- Primary navigation --------------------------*/
+ul#nav-primary {
+	width: 747px;
+	height: 23px;
+	border-top: 3px solid #0e2134;
+	border-bottom: 1px solid #93a1a9;
+	/* padding-left: 18px; */
+	padding-left: 3px;
+	list-style: none;
+	background: url("../images/nav/nav-primary-bg.gif") repeat-x 0 0;
+	}
+
+* html ul#nav-primary { width: 750px; height: 27px; }
+
+ul#nav-primary li {
+	position: relative;
+	float: left;
+	/*
+		margin-right: 18px;
+		padding-right: 18px;
+	*/
+	background: url("../images/nav/nav-primary-li-bg.gif") no-repeat 100% 4px;
+	}
+
+ul#nav-primary li.last {
+	border: 0;
+	/*
+		margin-right: 0;
+		padding-right: 0;
+	*/
+	background: none;
+	}
+
+ul#nav-primary li a {
+	height: 23px;
+	padding-right: 25px;
+	padding-bottom: 3px;
+	padding-left: 24px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-decoration: none;
+	color: #335271;
+	white-space:nowrap;
+	}
+
+ul#nav-primary li a:hover, ul#nav-primary li a.current {
+	color: #2363a5;
+	background: white;
+	}
+
+
+/* ----- Secondary navigation ------------------------*/
+div#content-wrapper ul#nav-secondary,
+div#wide-content-wrapper ul#nav-secondary {
+	float: right;
+	width: 343px;
+	height: 20px;
+	margin: 0; /* overwrites style from ifes.css */
+	padding-top: 4px;
+	padding-left: 5px;
+	font-size: 1em; /* overwrites style from ifes.css */
+	list-style: none;
+	background: url("../images/nav/nav-secondary-bg.gif") no-repeat 0 0;
+	}
+
+* html div#content-wrapper ul#nav-secondary,
+* html div#wide-content-wrapper ul#nav-secondary { width: 348px; height: 24px; }
+
+ul#nav-secondary li {
+	position: relative;
+	float: left;
+	padding: 0 15px 0 13px;
+	background: url("../images/nav/nav-secondary-li-bg.gif") no-repeat 100% 50%;
+	}
+
+ul#nav-secondary li.last {
+	background: none;
+	}
+
+ul#nav-secondary li a {
+	font-size: 1.1em;
+	font-weight: bold;
+	text-decoration: none;
+	color: #1f4671;
+	}
+
+ul#nav-secondary li a:hover, ul#nav-secondary li a.current {
+	text-decoration: underline;
+	color: #2172c4;
+	}
+
+
+/* ----- Utility navigation --------------------------*/
+ul#nav-utility {
+	float: right;
+	list-style: none;
+	padding-right: 1.5em;
+	}
+
+ul#nav-utility li {
+	position: relative;
+	float: left;
+	margin-left: 1.5em;
+	}
+
+ul#nav-utility li a {
+	font-size: 1.2em;
+	text-decoration: underline;
+	color: #e6e4d8;
+	}
+
+ul#nav-utility li a:hover {
+	color: #d1cfc5;
+	}
